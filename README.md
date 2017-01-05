@@ -1,7 +1,7 @@
 ###EricDallas GitHub Page
 
 - Update Pages
-- Test Linking [Google](https://www.google.com)
+- Test Linking [Google](https://www.google.com) :fire:
 
 You can use the [editor on GitHub](https://github.com/EricDallas/ericdallas.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
