@@ -1,4 +1,4 @@
-###EricDallas GitHub Page
+### :pineapple: EricDallas GitHub Page :pineapple:
 
 - Update Pages
 - Test Linking [Google](https://www.google.com) :fire:
